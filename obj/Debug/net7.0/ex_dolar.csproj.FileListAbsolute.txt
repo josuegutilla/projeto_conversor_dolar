@@ -1,0 +1,15 @@
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\bin\Debug\net7.0\ex_dolar.exe
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\bin\Debug\net7.0\ex_dolar.deps.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\bin\Debug\net7.0\ex_dolar.runtimeconfig.json
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\bin\Debug\net7.0\ex_dolar.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\bin\Debug\net7.0\ex_dolar.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.csproj.AssemblyReference.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.AssemblyInfoInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.AssemblyInfo.cs
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.csproj.CoreCompileInputs.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\refint\ex_dolar.dll
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.pdb
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ex_dolar.genruntimeconfig.cache
+C:\Users\Josué\OneDrive\Documentos\programação_estudos\CursoUdemy\testes\testes\ex_dolar\obj\Debug\net7.0\ref\ex_dolar.dll
